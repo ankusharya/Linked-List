@@ -2,7 +2,7 @@
 It is the visual representation of the linked list using p5.js library
 # The directory structure is 
 index.html </br>
-sketch.js
-library(folder)
+sketch.js </br>
+library(folder) </br>
   p5.js
   p5.dom.js
